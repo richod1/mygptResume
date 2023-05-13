@@ -1,0 +1,13 @@
+POST http://localhost:4000/resume/create
+Content-Type: application/json
+
+
+{
+    "fullName":"Degraft Frimpong",
+    "currentPosition":"front-end developer",
+    "currentLength":"3years",
+    "currentTechnologies":"java springboot,javaScript React",
+    "workHistory":"FrimpSup-frontend developer,logigllc-backend developer",
+
+}
+
